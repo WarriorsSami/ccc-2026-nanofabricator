@@ -15,7 +15,7 @@
 13	6	submitted-17034
 14	17	agent1
 15	12	rustcore
-16	40	rustcore
+16	38	rustcore
 17	26	rustmicro
 18	37	rustcore
 19	5	submitted-17034
@@ -79,7 +79,7 @@
 77	32	rustcore
 78	20	agent2
 79	18	agent1
-80	38	rustcore
+80	37	rustcore
 81	15	agent1
 82	9	submitted-17034
 83	16	rustmicro
@@ -90,7 +90,7 @@
 88	35	rustcore
 89	18	agent2
 90	17	rustcore
-91	44	rustcore
+91	43	rustcore
 92	10	submitted-17034
 93	19	agent3
 94	50	rustcore
@@ -113,7 +113,7 @@
 111	27	rustcore
 112	10	submitted-17034
 113	10	agent2
-114	39	rustcore
+114	38	rustcore
 115	11	rustcore
 116	12	submitted-17034
 117	6	submitted-17034
@@ -144,7 +144,7 @@
 142	11	rustcore
 143	150	rustcore
 144	32	rustcore
-145	41	rustcore
+145	40	rustcore
 146	54	rustcore
 147	5	rustcore
 148	56	rustcore
