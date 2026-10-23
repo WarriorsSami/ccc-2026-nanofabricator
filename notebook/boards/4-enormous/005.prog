@@ -1,12 +1,11 @@
 T - T F T B
 F T F F F -
 F B F F B T
-B - F F - -
-F - F F - -
-F - F T B -
-F F B F T -
-F T B - B F
-B T F B B F
+- - F F - -
+F F T F B -
+F F - T T -
+F B T F B F
+B - F B B F
 B F T B T F
 B - T B B T
 B F F - - B
