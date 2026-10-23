@@ -70,13 +70,13 @@
 68	11	rustmicro
 69	10	rustcore
 70	7	submitted-17034
-71	27	rustcore
+71	26	rustcore
 72	12	submitted-17034
 73	42	rustcore
 74	49	rustmicro
 75	7	agent2
 76	55	rustmicro
-77	34	rustcore
+77	32	rustcore
 78	20	agent2
 79	18	agent1
 80	38	rustcore
@@ -157,7 +157,7 @@
 155	25	agent1
 156	28	rustcore
 157	9	rustcore
-158	29	rustcore
+158	28	rustcore
 159	20	rustcore
 160	17	rustmicro
 161	16	agent1
