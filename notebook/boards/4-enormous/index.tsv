@@ -48,7 +48,7 @@
 46	18	rustmicro
 47	36	enormb
 48	34	rustcore
-49	48	agent5-suffixbeam
+49	47	rustcore
 50	10	agent3
 51	89	enorma-resolve
 52	21	rustcore
@@ -71,7 +71,7 @@
 69	26	enormb
 70	27	enormb
 71	27	enormb
-72	38	rustcore
+72	36	rustcore
 73	21	agent2
 74	29	enormb
 75	17	rustcore
@@ -91,7 +91,7 @@
 89	30	enormb
 90	21	agent2
 91	28	agent2
-92	70	agent4-resolve
+92	68	rustcore
 93	37	enormb
 94	35	sync-from-local-notebook
 95	14	rustcore
@@ -113,7 +113,7 @@
 111	31	enormb
 112	35	rustmicro
 113	81	rustcore
-114	103	agent4-resolve
+114	99	rustcore
 115	11	rustcore
 116	45	rustcore
 117	76	rustmicro
