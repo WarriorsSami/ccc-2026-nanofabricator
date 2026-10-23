@@ -1,0 +1,3 @@
+tools/validate
+.lock
+*.o

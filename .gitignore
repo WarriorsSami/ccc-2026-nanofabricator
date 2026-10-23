@@ -1,0 +1,6 @@
+sol
+*.o
+out/
+notebook/tools/validate
+.lock
+.DS_Store
