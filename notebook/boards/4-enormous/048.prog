@@ -30,10 +30,9 @@ F - - B B F
 B B B - B F
 - T B F - T
 T F - F - F
-T F B B T F
-F F F - F F
-T T F B F B
-F F B - F B
-F - F T T B
-T - - - - B
+T - B - T B
+F F F - F -
+- F F B F T
+F T T B F B
+F F T T T T
 T - B T F B
