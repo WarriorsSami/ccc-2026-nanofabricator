@@ -5,11 +5,10 @@ B F - B B -
 F F - B B F
 - T B B B B
 B B B - B -
-T T F - - F
-- - B F - B
-T T - B F B
-F - B F B B
-F T F B - F
+F - F - F -
+F - B - B B
+F T - - - B
+B - - - - F
 F - - - - B
 F - F T F T
 B - B T B T
