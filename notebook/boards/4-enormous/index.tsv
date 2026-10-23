@@ -12,14 +12,14 @@
 10	25	enormb
 11	17	agent2
 12	64	rustmicro
-13	25	agent2
+13	24	rustcore
 14	27	enormb
 15	22	rustcore
 16	34	agent3
 17	13	agent1
 18	14	submitted-17034
 19	34	agent2
-20	26	rustcore
+20	25	rustcore
 21	32	enormb
 22	20	rustcore
 23	21	rustcore
@@ -71,7 +71,7 @@
 69	26	enormb
 70	27	enormb
 71	27	enormb
-72	41	agent1
+72	38	rustcore
 73	21	agent2
 74	29	enormb
 75	20	rustcore
@@ -112,7 +112,7 @@
 110	20	agent2
 111	33	agent1
 112	35	rustmicro
-113	83	rustcore
+113	81	rustcore
 114	103	agent4-resolve
 115	11	rustcore
 116	46	agent5-suffixbeam
