@@ -10,7 +10,7 @@
 8	49	rustmicro
 9	18	submitted-17034
 10	25	enormb
-11	17	agent2
+11	16	rustcore
 12	64	rustmicro
 13	24	rustcore
 14	27	enormb
@@ -24,7 +24,7 @@
 22	20	rustcore
 23	21	rustcore
 24	23	agent2
-25	24	rustmicro
+25	23	rustcore
 26	37	rustmicro
 27	13	rustcore
 28	35	rustcore
@@ -118,9 +118,9 @@
 116	46	agent5-suffixbeam
 117	76	rustmicro
 118	18	agent2
-119	17	rustcore
+119	16	rustcore
 120	19	rustcore
-121	24	agent2
+121	22	rustcore
 122	95	rustmicro
 123	17	sync-from-local-notebook
 124	22	sync-from-local-notebook
