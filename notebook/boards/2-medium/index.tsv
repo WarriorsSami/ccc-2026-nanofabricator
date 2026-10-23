@@ -166,7 +166,7 @@
 164	21	submitted-17034
 165	31	agent2
 166	17	submitted-17034
-167	149	rustmicro
+167	146	rustcore
 168	17	submitted-17034
 169	3	submitted-17034
 170	21	agent2
@@ -196,7 +196,7 @@
 194	28	submitted-17034
 195	24	submitted-17034
 196	17	submitted-17034
-197	71	sync-from-local-notebook
+197	69	rustcore
 198	24	submitted-17034
 199	10	submitted-17034
 200	13	submitted-17034
