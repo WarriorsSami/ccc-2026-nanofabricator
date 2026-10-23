@@ -48,12 +48,11 @@ B F - - F F
 F F - F B B
 F F F T B B
 F B F B F -
-F T T B F B
-F - T F - -
-B - B B - F
+F - B B F B
+- T - - - -
 - F F B F T
 - B F B F F
-B B - - F -
+B B - - F F
 B B B - F F
 B B B - T T
 F B B F T F
