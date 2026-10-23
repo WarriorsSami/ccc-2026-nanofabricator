@@ -142,7 +142,6 @@ B - B F B B
 - B B B F B
 F - F F F F
 F - F F T T
-F - F - F -
-F T F F - T
-- F F - B F
-B T - B F -
+F F F - F -
+F F T F B T
+B F T - F F
