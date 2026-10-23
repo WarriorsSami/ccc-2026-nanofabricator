@@ -50,7 +50,7 @@
 48	34	rustcore
 49	47	rustcore
 50	10	agent3
-51	89	enorma-resolve
+51	86	rustcore
 52	21	rustcore
 53	26	sync-from-local-notebook
 54	14	rustcore
@@ -124,7 +124,7 @@
 122	95	rustmicro
 123	17	sync-from-local-notebook
 124	21	rustcore
-125	50	sync-from-local-notebook
+125	49	rustcore
 126	39	rustcore
 127	12	sync-from-local-notebook
 128	67	enorma-resolve
