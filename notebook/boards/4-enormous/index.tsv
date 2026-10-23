@@ -47,7 +47,7 @@
 45	31	enormb
 46	18	rustmicro
 47	36	enormb
-48	35	rustcore
+48	34	rustcore
 49	48	agent5-suffixbeam
 50	10	agent3
 51	89	enorma-resolve
@@ -115,7 +115,7 @@
 113	81	rustcore
 114	103	agent4-resolve
 115	11	rustcore
-116	46	agent5-suffixbeam
+116	45	rustcore
 117	76	rustmicro
 118	18	agent2
 119	16	rustcore
