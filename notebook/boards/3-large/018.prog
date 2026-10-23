@@ -31,7 +31,6 @@ F T F F F F
 F B B B - T
 B F F F - T
 F F B B B F
-B B B B - T
-B - B B B B
-B T F B B B
-B T F B B T
+B B B B - -
+B B B B B F
+- F - - B B
