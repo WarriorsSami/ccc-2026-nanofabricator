@@ -44,10 +44,9 @@ B B F F F B
 B B B F F F
 B B - F F -
 B - F F - B
-B B F F F B
-B F - F - F
-- - - F - -
-- B - B - B
+B - - F F B
+B B F F - -
+- - - - - -
 F F B B B -
 F - - B - F
 F F - B B -
