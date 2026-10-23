@@ -13,8 +13,7 @@ B F F - F -
 F F F T F F
 F B B F T B
 F F - F F B
-F F T F B B
-F F B T B T
-F - B F B -
-- - T B T F
-- T - B T -
+F F - - - B
+T F B F B -
+F - B T B B
+T T - B B B
