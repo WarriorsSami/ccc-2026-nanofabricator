@@ -145,7 +145,7 @@
 143	150	rustcore
 144	32	rustcore
 145	38	rustcore
-146	52	opt2-micro
+146	51	opt2-resolve
 147	5	rustcore
 148	51	opt1-resolve
 149	18	agent2
