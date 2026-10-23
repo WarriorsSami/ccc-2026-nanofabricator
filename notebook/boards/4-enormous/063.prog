@@ -18,9 +18,7 @@ F F F F - -
 F F - F T -
 F F - B B F
 F F T B B B
-F F F B B F
-F F F T B F
-T T T B B B
-- B F B F F
-- B F - - F
-T T - T - F
+B F - B - B
+B F - - B -
+B - - B B F
+B B - B B F

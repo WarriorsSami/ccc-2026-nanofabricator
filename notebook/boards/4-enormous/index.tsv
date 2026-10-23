@@ -62,7 +62,7 @@
 60	17	agent1
 61	23	sync-from-local-notebook
 62	56	sync-from-local-notebook
-63	26	rustcore
+63	24	rustmicro
 64	116	agent4-resolve
 65	22	rustcore
 66	39	sync-from-local-notebook
