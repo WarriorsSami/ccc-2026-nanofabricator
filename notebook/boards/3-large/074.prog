@@ -39,10 +39,9 @@ T B B B F -
 F F T B F B
 - T T B F T
 F F F - F T
-B T F B - -
-- T B B F -
-- F B F T F
-- F F T T F
+B F B B T F
+- F - T T F
+- - F - F -
 - T - F B -
 F B B T - T
 B B - T B B
