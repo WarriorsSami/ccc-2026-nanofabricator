@@ -35,8 +35,8 @@ F F B F F -
 F F - B - B
 F - B B F F
 F F F B - F
-F F F B - F
-B B F B F B
+F F F B - -
+B B F B F -
 B B F F - B
 B B - F B B
 B B F F - -
@@ -45,8 +45,7 @@ B B F F B B
 - B B B B B
 B B - B B -
 B B F B B B
-- F T B B -
-B F - B - F
-F B T B F F
-B F T - T -
-B - B F - B
+B B F B B F
+B - F B B -
+F - B B B F
+F - B - F -

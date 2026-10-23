@@ -6,7 +6,7 @@
 4	55	rustmicro
 5	40	opt4-resolve
 6	11	agent2
-7	52	agent4-resolve
+7	51	user-upload
 8	49	rustmicro
 9	18	submitted-17034
 10	23	enormb
@@ -25,7 +25,7 @@
 23	21	rustcore
 24	23	agent2
 25	23	rustcore
-26	36	rustcore
+26	34	user-upload
 27	13	rustcore
 28	35	rustcore
 29	33	sync-from-local-notebook
@@ -48,7 +48,7 @@
 46	18	rustmicro
 47	36	enormb
 48	34	rustcore
-49	47	rustcore
+49	46	user-upload
 50	10	agent3
 51	86	rustcore
 52	21	rustcore
@@ -67,7 +67,7 @@
 65	22	rustcore
 66	39	sync-from-local-notebook
 67	13	agent2
-68	41	agent5-suffixbeam
+68	40	user-upload
 69	26	enormb
 70	26	enormb
 71	27	enormb
@@ -76,7 +76,7 @@
 74	26	enormb
 75	17	rustcore
 76	24	rustmicro
-77	41	opt3-resolve
+77	39	user-upload
 78	37	rustcore
 79	35	enormb
 80	37	enormb
@@ -91,7 +91,7 @@
 89	30	enormb
 90	20	rustcore
 91	28	agent2
-92	65	opt4-resolve
+92	64	user-upload
 93	37	enormb
 94	35	sync-from-local-notebook
 95	14	rustcore
@@ -115,7 +115,7 @@
 113	81	rustcore
 114	95	opt2-resolve
 115	11	rustcore
-116	44	opt1-resolve
+116	43	user-upload
 117	72	rustcore
 118	18	agent2
 119	16	rustcore
