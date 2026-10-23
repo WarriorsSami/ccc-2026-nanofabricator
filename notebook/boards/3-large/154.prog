@@ -11,11 +11,10 @@ T B F B F B
 F B T - - F
 F F B B B -
 - B - - - T
-- - T F - T
-B - F - F -
-B - T B F B
-- - - - B -
-F - T F - F
+- - F - - T
+B - T F F -
+B F B B - T
+F B F F - T
 B F F B - B
 T - - - B F
 - B F - F B
