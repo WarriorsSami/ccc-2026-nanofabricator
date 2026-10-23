@@ -5,7 +5,7 @@
 3	6	submitted-17034
 4	26	submitted-17034
 5	16	submitted-17034
-6	41	agent2
+6	40	sync-from-local-notebook
 7	14	submitted-17034
 8	17	agent2
 9	18	submitted-17034
@@ -39,7 +39,7 @@
 37	33	agent2
 38	7	agent3
 39	17	agent2
-40	25	agent2
+40	24	sync-from-local-notebook
 41	19	agent2
 42	17	agent2
 43	36	agent1
@@ -49,11 +49,11 @@
 47	5	agent2
 48	20	submitted-17034
 49	7	submitted-17034
-50	20	agent2
+50	19	sync-from-local-notebook
 51	33	sync-from-local-notebook
 52	16	submitted-17034
 53	20	agent3
-54	67	agent6
+54	66	sync-from-local-notebook
 55	19	agent2
 56	32	agent2
 57	21	submitted-17034
@@ -72,7 +72,7 @@
 70	7	submitted-17034
 71	29	agent2
 72	12	submitted-17034
-73	48	agent3
+73	46	sync-from-local-notebook
 74	51	sync-from-local-notebook
 75	7	agent2
 76	56	sync-from-local-notebook
@@ -171,7 +171,7 @@
 169	32	agent2
 170	18	agent2
 171	23	agent1
-172	94	sync-from-local-notebook
+172	90	sync-from-local-notebook
 173	18	agent2
 174	38	agent2
 175	14	submitted-17034

@@ -3,10 +3,9 @@ F F - T B T
 T T - F T B
 T - - T T B
 F F B T - B
-F - - B B T
-F B - - - T
-B - - - T F
-F - - T T B
+F B B B B -
+- - F - B T
+F - - T F T
 B B T F B F
 B - T T - B
 B B T B B T

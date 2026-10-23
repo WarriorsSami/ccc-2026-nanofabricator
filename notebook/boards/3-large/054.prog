@@ -27,11 +27,10 @@ B B B - T F
 - B B B F F
 B B T B F F
 B - B B F F
-- B B B - T
-T F B F T -
-F - - F F F
-B - T F - F
-T - - F - -
+B T B - T T
+F F B F F F
+- T - F - F
+- B T F - -
 - F F - - -
 T F F F - B
 B F - B B -
