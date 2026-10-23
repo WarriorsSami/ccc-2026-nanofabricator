@@ -30,4 +30,20 @@ Ground truth simulator: `simulate()` in `level-6/main.cpp` (matches the server o
 Equivalent-state rule for local rewrites: same emitter offsets + active flags + matter on pattern∪halo + accepted count.
 
 ## Protocol
-Read the board from the notebook, improve it with any strategy, import it with `nb.py`. Never edit notebook files by hand.
+- Repo root is the source of truth. Read boards from `notebook/`, improve, import with `nb.py` (it validates + commits). Never edit notebook files by hand.
+- Never run `git` (orchestrator commits/pushes) and never run `ccc` (orchestrator submits).
+- Scratch: `work/<agent-name>/` (gitignored). Rust code: `rust/<crate>/` (one owner per crate; `rust/nano` = shared core).
+- Assignments: `work/assignments/<name>.txt` = `<input-id> idx idx ...` (boards sorted by current cost, descending).
+- Binary names must be prefixed with your agent name (a `killall` clash killed another agent's runs).
+- CPU: 8 cores shared by all agents -> max 2 concurrent heavy processes per agent; no background loops left running when you stop.
+
+## Rust (`rust/nano`)
+Core lib for speed: parse, geometry (cell ids, offFor, beam bitsets), unsafe hot loops (`get_unchecked`, raw ptrs, fixed `[u64; 7]` bitsets), simulator identical to `simulate()`.
+Bins: `nano-validate` (same CLI/stderr contract as `notebook/tools/merge.cpp`: `<input> <out> <cand...>` -> `merged total N`), then generators/optimisers ported from C++.
+Build: `cargo build --release --manifest-path rust/nano/Cargo.toml`.
+
+## Findings so far
+- 6-emitter greedy (all 4^6 lines per tick) >> pen; beam search over ticks with pair-aware reach potential is the strongest generator.
+- Period-k cycles (each emitter a closed walk) win big on high-count medium boards; deep searches beyond k=3 found nothing more.
+- Window re-planning k->k-1 to an equivalent state: 0.05-0.3% per pass, keeps finding lines after notebook updates.
+- Per-board min over many runs/params is where most gains came from; spend compute on the most expensive boards.

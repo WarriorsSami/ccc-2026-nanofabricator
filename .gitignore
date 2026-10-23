@@ -4,3 +4,6 @@ out/
 notebook/tools/validate
 .lock
 .DS_Store
+work/*/
+!work/assignments/
+rust/*/target/
