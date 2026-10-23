@@ -21,12 +21,11 @@ F B B F B B
 F B F B B -
 F B F - B -
 B - F - - F
-B - F - B F
-F B - T B T
-F B F F T T
-- B T F T T
-F T F F - B
-B - T T F T
+- B F B T -
+F B - F B F
+- B - F B B
+F T F F T T
+B - F F F T
 B T - F B F
 F F F T - B
 B F B T F -
