@@ -19,11 +19,10 @@ F F B - F F
 B T T B F F
 - F B T F T
 - B F B F F
-B F B B T F
-B B T B F -
-B B - F T -
-- B - - T B
-B T T - T F
+B - - B F -
+B B - - F F
+B B - B B -
+B T B F - -
 B F T F F B
 F - - F F B
 F B F T - B
