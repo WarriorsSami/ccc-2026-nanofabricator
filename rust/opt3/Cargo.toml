@@ -1,0 +1,17 @@
+[package]
+name = "opt3micro"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "opt3-micro-opt"
+path = "src/main.rs"
+
+[dependencies]
+
+[profile.release]
+opt-level = 3
+lto = "fat"
+codegen-units = 1
+panic = "abort"
+debug = false
