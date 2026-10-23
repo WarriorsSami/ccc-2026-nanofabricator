@@ -6,11 +6,10 @@ F F - B - F
 T T - T F F
 T F T F F F
 - F F - F -
-F T T T T F
-B F F - T B
-- T T B - -
-T B B T F F
-T F B T B B
+F T - T F F
+- F T - - B
+B T T B B -
+- - B - - -
 - B T T B -
 T B F F B B
 T - T T B F
