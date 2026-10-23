@@ -45,7 +45,7 @@
 43	36	agent1
 44	38	sync-from-local-notebook
 45	25	rustcore
-46	32	rustcore
+46	31	rustcore
 47	5	agent2
 48	17	rustcore
 49	7	submitted-17034
@@ -70,7 +70,7 @@
 68	12	agent2
 69	10	rustcore
 70	7	submitted-17034
-71	29	agent2
+71	27	rustcore
 72	12	submitted-17034
 73	42	rustcore
 74	49	rustmicro
@@ -87,7 +87,7 @@
 85	17	rustmicro
 86	55	agent6
 87	19	rustcore
-88	37	sync-from-local-notebook
+88	36	rustcore
 89	18	agent2
 90	18	submitted-17034
 91	44	rustcore
@@ -152,7 +152,7 @@
 150	7	submitted-17034
 151	19	agent2
 152	10	rustcore
-153	29	agent2
+153	28	rustcore
 154	24	rustmicro
 155	25	agent1
 156	28	rustcore
@@ -164,7 +164,7 @@
 162	28	rustcore
 163	37	rustcore
 164	28	rustcore
-165	29	rustcore
+165	27	rustcore
 166	5	rustcore
 167	34	rustcore
 168	54	rustcore
