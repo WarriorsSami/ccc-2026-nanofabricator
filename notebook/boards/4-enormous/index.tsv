@@ -35,7 +35,7 @@
 33	21	agent1
 34	9	rustcore
 35	29	enormb
-36	55	sync-from-local-notebook
+36	54	rustcore
 37	25	rustcore
 38	30	enormb
 39	33	enormb
@@ -102,7 +102,7 @@
 100	29	enormb
 101	13	sync-from-local-notebook
 102	14	sync-from-local-notebook
-103	84	sync-from-local-notebook
+103	83	rustcore
 104	28	enormb
 105	15	rustcore
 106	20	agent2
@@ -116,7 +116,7 @@
 114	99	rustcore
 115	11	rustcore
 116	45	rustcore
-117	76	rustmicro
+117	72	rustcore
 118	18	agent2
 119	16	rustcore
 120	19	rustcore
@@ -131,7 +131,7 @@
 129	17	rustmicro
 130	37	agent5-suffixbeam
 131	28	enormb
-132	54	agent4-resolve
+132	53	rustcore
 133	18	sync-from-local-notebook
 134	27	enormb
 135	31	enormb
