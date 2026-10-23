@@ -29,12 +29,11 @@ F F B - F -
 F F F B F F
 - T T B F T
 - F B - F F
-F - - T B F
-- F B - B F
-F T B T T T
-- B B F - F
-B B - F F B
-B T - F B F
+F T B T - F
+- T F F B F
+F T B F B T
+B B B T T -
+B T B F - F
 - - - - T -
 B F B F B F
 - F B F B B
