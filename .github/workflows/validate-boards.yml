@@ -1,0 +1,18 @@
+name: validate-boards
+on:
+  pull_request:
+    paths: ['notebook/boards/**']
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+        with: { ref: '${{ github.event.pull_request.base.sha }}', path: base }
+      - uses: actions/checkout@v4
+        with: { ref: '${{ github.event.pull_request.head.sha }}', path: pr }
+      - name: Build validator from base
+        run: cd base/notebook/tools && g++-14 -std=c++23 -O2 -I. -o validate merge.cpp
+      - name: Check changed boards
+        run: python3 base/notebook/tools/ci_check.py base pr
