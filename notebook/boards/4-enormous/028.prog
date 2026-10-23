@@ -7,12 +7,11 @@ B B B B F F
 - B B - F -
 B B - F F -
 F - B B - F
-B F B B B T
-B B F - - T
-- B B F B -
-F - F F - F
-- B F F F T
-B - F B T B
+B F - B B B
+B B B F B F
+- B F F - F
+F B F F F B
+B - F B T T
 B F F F B B
 F F F - B B
 - F F B B B
